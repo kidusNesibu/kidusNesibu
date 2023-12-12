@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kidusNesibu
 - 👀 I’m interested in WEB development projects
-- 🌱 I’m currently learning ALX-SE
+- 🌱 I’m currently learning ALX-SE Program
 - 💞️ I’m looking to collaborate on WEB development projects
 - 📫 How to reach me kidusnesibu1@gmail.com
 
